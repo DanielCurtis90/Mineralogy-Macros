@@ -1,3 +1,6 @@
+Note: These macros may not work in excel version greater than 2007 due to some methods changing, particularly for chart resizing.
+
+
 These are my first VbA macros that I wrote for use on mineralogical data extracted from a QEMSCAN. Most are for very specific use and have poor error handling,
 however the methods used in the code and comments are useful for remembering how to do things in VbA for myself. Additionally there is a lot of formatting tricks
 that are commented in and can be used in other reports. Anyone can use this as a stepping stone for figuring out excel chart automation!
